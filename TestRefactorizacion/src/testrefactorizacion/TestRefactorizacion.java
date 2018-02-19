@@ -18,6 +18,7 @@ public class TestRefactorizacion {
         // TODO code application logic here
 	// Comentario de la tarea 2
         // Prueba desde Subversion
+        // Comentario de la tarea 2 desde Netbeans
         cliente c=new cliente("IES de Rodeira");
     }
     
